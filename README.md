@@ -1,3 +1,3 @@
 # dio-java-basico
 Repositório para armazenar todo o código do curso de Java básico 
-Alterando um arquivo deforma local.
+Alterando um arquivo de forma local.
